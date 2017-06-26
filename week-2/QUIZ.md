@@ -4,9 +4,9 @@
 
 **A - Logistic sigmoid**
 
-B - Linear
+**B - Linear**
 
-**C - Binary threshould**
+C - Binary threshould
 
 **D - Linear threshold**
 
